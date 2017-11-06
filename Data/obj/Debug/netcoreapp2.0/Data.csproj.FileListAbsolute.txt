@@ -1,0 +1,9 @@
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Data\obj\Debug\netcoreapp2.0\Data.pdb

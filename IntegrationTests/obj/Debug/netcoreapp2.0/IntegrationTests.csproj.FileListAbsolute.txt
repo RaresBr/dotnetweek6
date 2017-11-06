@@ -1,0 +1,6 @@
+C:\Users\rares\source\repos\Kata3\IntegrationTests\bin\Debug\netcoreapp2.0\IntegrationTests.deps.json
+C:\Users\rares\source\repos\Kata3\IntegrationTests\bin\Debug\netcoreapp2.0\IntegrationTests.dll
+C:\Users\rares\source\repos\Kata3\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\rares\source\repos\Kata3\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata3\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata3\IntegrationTests\obj\Debug\netcoreapp2.0\IntegrationTests.AssemblyInfo.cs

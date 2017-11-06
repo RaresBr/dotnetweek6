@@ -1,0 +1,15 @@
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\IntTests.deps.json
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\IntTests.runtimeconfig.json
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\IntTests.runtimeconfig.dev.json
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\IntTests.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\rares\source\repos\Kata3\IntTests\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\rares\source\repos\Kata3\IntTests\obj\Debug\netcoreapp2.0\IntTests.csprojResolveAssemblyReference.cache
+C:\Users\rares\source\repos\Kata3\IntTests\obj\Debug\netcoreapp2.0\IntTests.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata3\IntTests\obj\Debug\netcoreapp2.0\IntTests.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata3\IntTests\obj\Debug\netcoreapp2.0\IntTests.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\rares\source\repos\Kata3\Data.Context\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\rares\source\repos\Kata3\Data.Context\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\rares\source\repos\Kata3\Data.Context\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\rares\source\repos\Kata3\Data.Context\obj\Debug\netcoreapp2.0\Data.Domain.pdb

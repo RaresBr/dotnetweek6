@@ -1,0 +1,9 @@
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Business\obj\Debug\netcoreapp2.0\Business.pdb

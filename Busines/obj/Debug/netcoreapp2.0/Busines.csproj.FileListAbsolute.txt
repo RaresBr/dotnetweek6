@@ -1,0 +1,13 @@
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Busines.deps.json
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Busines.dll
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Busines.pdb
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\rares\source\repos\Kata3\Busines\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.csprojResolveAssemblyReference.cache
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.AssemblyInfo.cs
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.dll
+C:\Users\rares\source\repos\Kata3\Busines\obj\Debug\netcoreapp2.0\Busines.pdb

@@ -1,0 +1,28 @@
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.deps.json
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.runtimeconfig.json
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.runtimeconfig.dev.json
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.pdb
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.dll
+C:\Users\folariu\Desktop\University\Kata Curs 4\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.pdb
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.deps.json
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.runtimeconfig.json
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.runtimeconfig.dev.json
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.dll
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Kata3.pdb
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.csprojResolveAssemblyReference.cache
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.AssemblyInfo.cs
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.dll
+C:\Users\rares\source\repos\Kata3\Kata3\obj\Debug\netcoreapp2.0\Kata3.pdb
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Busines.dll
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Busines.pdb
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\rares\source\repos\Kata3\Kata3\bin\Debug\netcoreapp2.0\Data.Domain.pdb
